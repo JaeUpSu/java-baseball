@@ -44,5 +44,6 @@
     - [ ] Computer, 컴퓨터가 정한 랜덤 세자리수
     - [ ] BaseballGame, 게임 진행 
     - [ ] Hint, 게임 결과 문구
-    - [ ] RESULT Enum 만들기
-    - [ ] COMMAND Enum 만들기
+    - [ ] Result Enum 만들기
+    - [ ] Command Enum 만들기
+    - [x] Range Enum 만들기
