@@ -2,7 +2,8 @@ package baseball.domain;
 
 public enum Range {
     START(1),
-    END(9);
+    END(9),
+    SIZE(3);
 
     private final Integer number;
 
